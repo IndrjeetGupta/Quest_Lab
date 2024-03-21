@@ -1,0 +1,26 @@
+.card {
+ display: flex;
+ justify-content: space-evenly;
+ grid-template-columns: repeat(4, 1fr);
+ gap: 10px;
+
+}
+
+@media screen and (min-width: 320px) and (max-width : 608px ) {
+    .card {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+       
+       }
+
+  }
+
+  @media screen and (min-width: 608px) and (max-width : 768px ) {
+    .card {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+       
+       }
+
+  }
+

@@ -1,0 +1,28 @@
+#doneParent{
+    background-color: rgb(239, 233, 233);
+    border-radius: 10px;
+    padding: 12px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: rgb(75, 75, 114);
+    height: 95%;
+    width: 90%;
+    
+
+}
+
+#done{
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 16px;
+}
+#btn{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+   
+    
+}
+
+

@@ -1,0 +1,27 @@
+#inprParent{
+    background-color: rgb(239, 233, 233);
+    border-radius: 10px;
+    padding: 12px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: rgb(75, 75, 114);
+    height: 90%;
+    width: 90%;
+    margin: auto;
+}
+
+#inprogress{
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+#btn{
+    background: none;
+    border: none;
+
+   
+    
+}
+
+
